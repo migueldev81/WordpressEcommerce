@@ -1,7 +1,7 @@
 # WORDPRESS | Ecommerce
 
-## 💻 Tech Stack:
-<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+## Tech Stack
+WordPress | Woocommerce
 
 ## Screens
 ![1](./resources/1.png)
